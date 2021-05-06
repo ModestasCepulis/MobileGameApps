@@ -1,0 +1,1308 @@
+fileFormatVersion: 2
+guid: b4c21574767b5f545a2e2fbc353d1dea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5889842898218888063
+    second: Frontliner_Animations_0
+  - first:
+      213: -6923939780651696087
+    second: Frontliner_Animations_1
+  - first:
+      213: 8897342515344470096
+    second: Frontliner_Animations_2
+  - first:
+      213: 620805054779295769
+    second: Frontliner_Animations_3
+  - first:
+      213: -2263353137062578751
+    second: Frontliner_Animations_4
+  - first:
+      213: 983564122928633814
+    second: Frontliner_Animations_5
+  - first:
+      213: -1559281361268332651
+    second: Frontliner_Animations_6
+  - first:
+      213: -6883662585273222218
+    second: Frontliner_Animations_7
+  - first:
+      213: 8658317160529923366
+    second: Frontliner_Animations_8
+  - first:
+      213: 2351674890896133219
+    second: Frontliner_Animations_9
+  - first:
+      213: 2979476044382157990
+    second: Frontliner_Animations_10
+  - first:
+      213: -6909924746458654689
+    second: Frontliner_Animations_11
+  - first:
+      213: 263878144581371932
+    second: Frontliner_Animations_12
+  - first:
+      213: -7768133552387775944
+    second: Frontliner_Animations_13
+  - first:
+      213: 579517291197583713
+    second: Frontliner_Animations_14
+  - first:
+      213: -343023947077908784
+    second: Frontliner_Animations_15
+  - first:
+      213: -2893646151694794697
+    second: Frontliner_Animations_16
+  - first:
+      213: -1007275583012739639
+    second: Frontliner_Animations_17
+  - first:
+      213: 4286397021230700981
+    second: Frontliner_Animations_18
+  - first:
+      213: 1163844480428805575
+    second: Frontliner_Animations_19
+  - first:
+      213: 8237255441539323893
+    second: Frontliner_Animations_20
+  - first:
+      213: 4538334209522381775
+    second: Frontliner_Animations_21
+  - first:
+      213: -8354972980458945564
+    second: Frontliner_Animations_22
+  - first:
+      213: 1735198851722696766
+    second: Frontliner_Animations_23
+  - first:
+      213: 842312104919233594
+    second: Frontliner_Animations_24
+  - first:
+      213: -1218558874601128577
+    second: Frontliner_Animations_25
+  - first:
+      213: -8568203457196017421
+    second: Frontliner_Animations_26
+  - first:
+      213: 4439895257206879563
+    second: Frontliner_Animations_27
+  - first:
+      213: -1859546890689474523
+    second: Frontliner_Animations_28
+  - first:
+      213: 4233571433929249115
+    second: Frontliner_Animations_29
+  - first:
+      213: 7899423566080072188
+    second: Frontliner_Animations_30
+  - first:
+      213: 44020328733395031
+    second: Frontliner_Animations_31
+  - first:
+      213: 4187487365934331531
+    second: Frontliner_Animations_32
+  - first:
+      213: 5160501873448584371
+    second: Frontliner_Animations_33
+  - first:
+      213: -1682733704189369329
+    second: Frontliner_Animations_34
+  - first:
+      213: -7807933508014111899
+    second: Frontliner_Animations_35
+  - first:
+      213: 8197872943859368516
+    second: Frontliner_Animations_36
+  - first:
+      213: 8984672717387205109
+    second: Frontliner_Animations_37
+  - first:
+      213: -283211615311026357
+    second: Frontliner_Animations_38
+  - first:
+      213: -4309212733430013324
+    second: Frontliner_Animations_39
+  - first:
+      213: -287803875138047761
+    second: Frontliner_Animations_0
+  - first:
+      213: 8309575009909226579
+    second: Frontliner_Animations_1
+  - first:
+      213: -8335438571500856206
+    second: Frontliner_Animations_2
+  - first:
+      213: -2685392512426323953
+    second: Frontliner_Animations_3
+  - first:
+      213: 5793735495220410448
+    second: Frontliner_Animations_4
+  - first:
+      213: -8445825865512417641
+    second: Frontliner_Animations_5
+  - first:
+      213: 1300270981716758894
+    second: Frontliner_Animations_6
+  - first:
+      213: 6992568981870500242
+    second: Frontliner_Animations_7
+  - first:
+      213: 164039191434285909
+    second: Frontliner_Animations_8
+  - first:
+      213: 2335789720772590824
+    second: Frontliner_Animations_9
+  - first:
+      213: 1239013472360014943
+    second: Frontliner_Animations_10
+  - first:
+      213: 1830633747739876590
+    second: Frontliner_Animations_11
+  - first:
+      213: -807450002680105615
+    second: Frontliner_Animations_12
+  - first:
+      213: -564159813803977260
+    second: Frontliner_Animations_13
+  - first:
+      213: -322152529347536216
+    second: Frontliner_Animations_14
+  - first:
+      213: 4240931128614772624
+    second: Frontliner_Animations_15
+  - first:
+      213: 63282042726462686
+    second: Frontliner_Animations_16
+  - first:
+      213: 5509234785896599951
+    second: Frontliner_Animations_17
+  - first:
+      213: -3735983353630962756
+    second: Frontliner_Animations_18
+  - first:
+      213: 1035810510709577797
+    second: Frontliner_Animations_19
+  - first:
+      213: -3975436730731953859
+    second: Frontliner_Animations_20
+  - first:
+      213: 5738235010203641023
+    second: Frontliner_Animations_21
+  - first:
+      213: -5595889590500406850
+    second: Frontliner_Animations_22
+  - first:
+      213: 4215314959515186685
+    second: Frontliner_Animations_23
+  - first:
+      213: -5489624896187563495
+    second: Frontliner_Animations_24
+  - first:
+      213: -3524696557643371199
+    second: Frontliner_Animations_25
+  - first:
+      213: -7430098046855123710
+    second: Frontliner_Animations_26
+  - first:
+      213: 8451516085740829834
+    second: Frontliner_Animations_27
+  - first:
+      213: -2879132726680931008
+    second: Frontliner_Animations_28
+  - first:
+      213: -1680181741645094996
+    second: Frontliner_Animations_29
+  - first:
+      213: -5383467565965056525
+    second: Frontliner_Animations_30
+  - first:
+      213: -5428456019482590588
+    second: Frontliner_Animations_31
+  - first:
+      213: 464127626093233585
+    second: Frontliner_Animations_32
+  - first:
+      213: 4349598924146740927
+    second: Frontliner_Animations_33
+  - first:
+      213: 4303289561599322474
+    second: Frontliner_Animations_34
+  - first:
+      213: -2587480079792814693
+    second: Frontliner_Animations_35
+  - first:
+      213: 4477631939631287768
+    second: Frontliner_Animations_36
+  - first:
+      213: 4564305024187247991
+    second: Frontliner_Animations_37
+  - first:
+      213: 7643448593401018324
+    second: Frontliner_Animations_38
+  - first:
+      213: 8831349592517153696
+    second: Frontliner_Animations_39
+  - first:
+      213: 1522807846048210427
+    second: Frontliner_Animations_40
+  - first:
+      213: 3318288396587470945
+    second: Frontliner_Animations_41
+  - first:
+      213: 1565360544648440541
+    second: Frontliner_Animations_42
+  - first:
+      213: -5284335160369530434
+    second: Frontliner_Animations_43
+  - first:
+      213: -3160860461767290494
+    second: Frontliner_Animations_44
+  - first:
+      213: -5496704915104936921
+    second: Frontliner_Animations_45
+  - first:
+      213: -1315908746191122131
+    second: Frontliner_Animations_46
+  - first:
+      213: 2476205163145121637
+    second: Frontliner_Animations_47
+  - first:
+      213: 1049812779116507624
+    second: Frontliner_Animations_48
+  - first:
+      213: 2788970100274051596
+    second: Frontliner_Animations_49
+  - first:
+      213: 1347740604480687233
+    second: Frontliner_Animations_50
+  - first:
+      213: 6309689093145927502
+    second: Frontliner_Animations_51
+  - first:
+      213: -7366042261755916242
+    second: Frontliner_Animations_52
+  - first:
+      213: -6639327473135804139
+    second: Frontliner_Animations_53
+  - first:
+      213: -5211025077596458829
+    second: Frontliner_Animations_54
+  - first:
+      213: 7786758031654304471
+    second: Frontliner_Animations_55
+  - first:
+      213: 8462087415394365289
+    second: Frontliner_Animations_56
+  - first:
+      213: 1134489811042420207
+    second: Frontliner_Animations_57
+  - first:
+      213: 3942106879933652846
+    second: Frontliner_Animations_58
+  - first:
+      213: 8092808164702832546
+    second: Frontliner_Animations_59
+  - first:
+      213: -6008830984793440583
+    second: Frontliner_Animations_60
+  - first:
+      213: 4950381962169387035
+    second: Frontliner_Animations_61
+  - first:
+      213: 4150333176764990551
+    second: Frontliner_Animations_62
+  - first:
+      213: 8496525625128239421
+    second: Frontliner_Animations_63
+  - first:
+      213: -4168554247462629883
+    second: Frontliner_Animations_64
+  - first:
+      213: -4379353231340399544
+    second: Frontliner_Animations_65
+  - first:
+      213: -2187949703648000422
+    second: Frontliner_Animations_66
+  - first:
+      213: -4057972914572252127
+    second: Frontliner_Animations_67
+  - first:
+      213: -5196314014485478993
+    second: Frontliner_Animations_68
+  - first:
+      213: -1247779506196857086
+    second: Frontliner_Animations_69
+  - first:
+      213: -8548219383060529591
+    second: Frontliner_Animations_70
+  - first:
+      213: 971268040465517639
+    second: Frontliner_Animations_71
+  - first:
+      213: 889755433243252729
+    second: Frontliner_Animations_72
+  - first:
+      213: 7415403244910746985
+    second: Frontliner_Animations_73
+  - first:
+      213: -5358256036885246071
+    second: Frontliner_Animations_74
+  - first:
+      213: 8752885548664986243
+    second: Frontliner_Animations_75
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frontliner_Animations_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe07a6186e3810cf0800000000000000
+      internalID: -287803875138047761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c3a1c027a815370800000000000000
+      internalID: 8309575009909226579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c1a9248c2925c80800000000000000
+      internalID: -8335438571500856206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00d55edcb19bbad0800000000000000
+      internalID: -2685392512426323953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0583f238cbb776050800000000000000
+      internalID: 5793735495220410448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796835b8f166aca80800000000000000
+      internalID: -8445825865512417641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61d9f8919d7b0210800000000000000
+      internalID: 1300270981716758894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2995ec7d0789a0160800000000000000
+      internalID: 6992568981870500242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553dea686c8c64200800000000000000
+      internalID: 164039191434285909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecb8a020646a6020800000000000000
+      internalID: 2335789720772590824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_10
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5421f3403cd13110800000000000000
+      internalID: 1239013472360014943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_11
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec90e7c1b7b76910800000000000000
+      internalID: 1830633747739876590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_12
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1753d58208c5bc4f0800000000000000
+      internalID: -807450002680105615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_13
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5d9ad63a3bb28f0800000000000000
+      internalID: -564159813803977260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_14
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa1fbc3bfb778bf0800000000000000
+      internalID: -322152529347536216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_15
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fdafd5460dada30800000000000000
+      internalID: 4240931128614772624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_16
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed43f5dbea2d0e000800000000000000
+      internalID: 63282042726462686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_17
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81979d39dbb47c40800000000000000
+      internalID: 5509234785896599951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_18
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbcd081fee172cc0800000000000000
+      internalID: -3735983353630962756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_19
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548d579eb20ff5e00800000000000000
+      internalID: 1035810510709577797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_20
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d318ead2b5964d8c0800000000000000
+      internalID: -3975436730731953859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_21
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4e5ecd65e42af40800000000000000
+      internalID: 5738235010203641023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_22
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9cae3d0186752b0800000000000000
+      internalID: -5595889590500406850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_23
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5fa4a3f9ecf7a30800000000000000
+      internalID: 4215314959515186685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_24
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91289900e3fe0d3b0800000000000000
+      internalID: -5489624896187563495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_25
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14def9cc723c51fc0800000000000000
+      internalID: -3524696557643371199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_26
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d60e6513df2e890800000000000000
+      internalID: -7430098046855123710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_27
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cf4181a11d94570800000000000000
+      internalID: 8451516085740829834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_28
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0453bf41a044b08d0800000000000000
+      internalID: -2879132726680931008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_29
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf9523ab9bcea8e0800000000000000
+      internalID: -1680181741645094996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_30
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5e0d685c41a45b0800000000000000
+      internalID: -5383467565965056525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_31
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482c8efe2004aa4b0800000000000000
+      internalID: -5428456019482590588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_32
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b58bbbed99e07600800000000000000
+      internalID: 464127626093233585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_33
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe00352d21ec5c30800000000000000
+      internalID: 4349598924146740927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_34
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6926c47e0b58bb30800000000000000
+      internalID: 4303289561599322474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_35
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95cc84939c671cd0800000000000000
+      internalID: -2587480079792814693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_36
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd8aac868eb32e30800000000000000
+      internalID: 4477631939631287768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_37
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d263d9c3ba75f30800000000000000
+      internalID: 4564305024187247991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_38
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d770acbffbf21a60800000000000000
+      internalID: 7643448593401018324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frontliner_Animations_39
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a39645f9a14f8a70800000000000000
+      internalID: 8831349592517153696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 2ef8c3ed824b9e84d94cb71c6ac89d6e, type: 3}
+      name: _Emission_Frontliner
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

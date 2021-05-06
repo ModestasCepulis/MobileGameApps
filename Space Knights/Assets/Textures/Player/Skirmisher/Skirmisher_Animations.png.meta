@@ -1,0 +1,1494 @@
+fileFormatVersion: 2
+guid: 9719843bc58bebf438df46fef1831a98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6463611419419224450
+    second: Skirmisher_Animations_0
+  - first:
+      213: 4565545806808416798
+    second: Skirmisher_Animations_1
+  - first:
+      213: -7238901606722326354
+    second: Skirmisher_Animations_2
+  - first:
+      213: 3445239839328659731
+    second: Skirmisher_Animations_3
+  - first:
+      213: -6546375567637605746
+    second: Skirmisher_Animations_4
+  - first:
+      213: 3462338099062187747
+    second: Skirmisher_Animations_5
+  - first:
+      213: 3578029572923999984
+    second: Skirmisher_Animations_6
+  - first:
+      213: -7072098632327287537
+    second: Skirmisher_Animations_7
+  - first:
+      213: -2835426638750329956
+    second: Skirmisher_Animations_8
+  - first:
+      213: 3466936833222227208
+    second: Skirmisher_Animations_9
+  - first:
+      213: 7819833823933585215
+    second: Skirmisher_Animations_10
+  - first:
+      213: -1837582112175722021
+    second: Skirmisher_Animations_11
+  - first:
+      213: -6076116572650943270
+    second: Skirmisher_Animations_12
+  - first:
+      213: 9133556227832588005
+    second: Skirmisher_Animations_13
+  - first:
+      213: 4463069171362098263
+    second: Skirmisher_Animations_14
+  - first:
+      213: 566743335164947575
+    second: Skirmisher_Animations_15
+  - first:
+      213: -660691178592343896
+    second: Skirmisher_Animations_16
+  - first:
+      213: 4572146827365910763
+    second: Skirmisher_Animations_17
+  - first:
+      213: -8161571041602944498
+    second: Skirmisher_Animations_18
+  - first:
+      213: 100307994870461704
+    second: Skirmisher_Animations_19
+  - first:
+      213: 6996864140379554934
+    second: Skirmisher_Animations_20
+  - first:
+      213: 8799204085424179084
+    second: Skirmisher_Animations_21
+  - first:
+      213: 9039037605523749927
+    second: Skirmisher_Animations_22
+  - first:
+      213: 7011476209130740249
+    second: Skirmisher_Animations_23
+  - first:
+      213: -5631692007750656016
+    second: Skirmisher_Animations_24
+  - first:
+      213: -8164169644187229724
+    second: Skirmisher_Animations_25
+  - first:
+      213: -5614260605214366885
+    second: Skirmisher_Animations_26
+  - first:
+      213: -8349741797975308166
+    second: Skirmisher_Animations_27
+  - first:
+      213: 6645926744541411991
+    second: Skirmisher_Animations_28
+  - first:
+      213: 8187416903999880349
+    second: Skirmisher_Animations_29
+  - first:
+      213: 1976335512578648678
+    second: Skirmisher_Animations_30
+  - first:
+      213: 659254437670326547
+    second: Skirmisher_Animations_31
+  - first:
+      213: 3156832289797095610
+    second: Skirmisher_Animations_32
+  - first:
+      213: 2305067845048237043
+    second: Skirmisher_Animations_33
+  - first:
+      213: 5115669390097983643
+    second: Skirmisher_Animations_34
+  - first:
+      213: -6107705283313495359
+    second: Skirmisher_Animations_35
+  - first:
+      213: -7404135806308450233
+    second: Skirmisher_Animations_36
+  - first:
+      213: -52104322838993442
+    second: Skirmisher_Animations_37
+  - first:
+      213: 6301657102158262103
+    second: Skirmisher_Animations_38
+  - first:
+      213: 8369586060629377101
+    second: Skirmisher_Animations_39
+  - first:
+      213: 6098118408273720794
+    second: Skirmisher_Animations_40
+  - first:
+      213: 2036207618396218451
+    second: Skirmisher_Animations_41
+  - first:
+      213: -942624787330786965
+    second: Skirmisher_Animations_42
+  - first:
+      213: -6655823583586714616
+    second: Skirmisher_Animations_43
+  - first:
+      213: 5125467765457874886
+    second: Skirmisher_Animations_44
+  - first:
+      213: 8845537649183934407
+    second: Skirmisher_Animations_45
+  - first:
+      213: 551236379738062228
+    second: Skirmisher_Animations_46
+  - first:
+      213: -8051815499725279301
+    second: Skirmisher_Animations_0
+  - first:
+      213: 1754451767794727378
+    second: Skirmisher_Animations_1
+  - first:
+      213: -6746520991198104973
+    second: Skirmisher_Animations_2
+  - first:
+      213: 821558120263956958
+    second: Skirmisher_Animations_3
+  - first:
+      213: 4506982579995459231
+    second: Skirmisher_Animations_4
+  - first:
+      213: 4765316405000151659
+    second: Skirmisher_Animations_5
+  - first:
+      213: 2976295315426917008
+    second: Skirmisher_Animations_6
+  - first:
+      213: -7514740661193775684
+    second: Skirmisher_Animations_7
+  - first:
+      213: -7585261059816356303
+    second: Skirmisher_Animations_8
+  - first:
+      213: -164937229177415633
+    second: Skirmisher_Animations_9
+  - first:
+      213: -8569450382573831489
+    second: Skirmisher_Animations_10
+  - first:
+      213: 3694399118855241272
+    second: Skirmisher_Animations_11
+  - first:
+      213: -8383861850982649189
+    second: Skirmisher_Animations_12
+  - first:
+      213: -6894798668217178693
+    second: Skirmisher_Animations_13
+  - first:
+      213: -7686027937724390085
+    second: Skirmisher_Animations_14
+  - first:
+      213: 335593415580137771
+    second: Skirmisher_Animations_15
+  - first:
+      213: 6408938569280934373
+    second: Skirmisher_Animations_16
+  - first:
+      213: 8650838662468929185
+    second: Skirmisher_Animations_17
+  - first:
+      213: 5382941556042667668
+    second: Skirmisher_Animations_18
+  - first:
+      213: -5168211486762604406
+    second: Skirmisher_Animations_19
+  - first:
+      213: 5117358425428454174
+    second: Skirmisher_Animations_20
+  - first:
+      213: 722572595050853148
+    second: Skirmisher_Animations_21
+  - first:
+      213: -1909370669419512414
+    second: Skirmisher_Animations_22
+  - first:
+      213: -8242106073644376318
+    second: Skirmisher_Animations_23
+  - first:
+      213: -7435703577063341616
+    second: Skirmisher_Animations_24
+  - first:
+      213: -2331633409834059927
+    second: Skirmisher_Animations_25
+  - first:
+      213: 4060309544494353965
+    second: Skirmisher_Animations_26
+  - first:
+      213: 7659611836772699715
+    second: Skirmisher_Animations_27
+  - first:
+      213: 112151709267729199
+    second: Skirmisher_Animations_28
+  - first:
+      213: 1928310416119252410
+    second: Skirmisher_Animations_29
+  - first:
+      213: 1307467252411073628
+    second: Skirmisher_Animations_30
+  - first:
+      213: -4399708906909390747
+    second: Skirmisher_Animations_31
+  - first:
+      213: -7610784024559098911
+    second: Skirmisher_Animations_32
+  - first:
+      213: 6447212500028751578
+    second: Skirmisher_Animations_33
+  - first:
+      213: -4576300738618449364
+    second: Skirmisher_Animations_34
+  - first:
+      213: 6040627360619052575
+    second: Skirmisher_Animations_35
+  - first:
+      213: 2578888518452446374
+    second: Skirmisher_Animations_36
+  - first:
+      213: -1667472462599328358
+    second: Skirmisher_Animations_37
+  - first:
+      213: -8373269038839039817
+    second: Skirmisher_Animations_38
+  - first:
+      213: 5867325743838391403
+    second: Skirmisher_Animations_39
+  - first:
+      213: 8683800787342310255
+    second: Skirmisher_Animations_40
+  - first:
+      213: -6698508120867936409
+    second: Skirmisher_Animations_41
+  - first:
+      213: 1659995801258825648
+    second: Skirmisher_Animations_42
+  - first:
+      213: 6968731175675530939
+    second: Skirmisher_Animations_43
+  - first:
+      213: 8808258051463702981
+    second: Skirmisher_Animations_44
+  - first:
+      213: 1687748104351289210
+    second: Skirmisher_Animations_45
+  - first:
+      213: -5787208065153184281
+    second: Skirmisher_Animations_46
+  - first:
+      213: -5471497450769576190
+    second: Skirmisher_Animations_47
+  - first:
+      213: -41645203087429313
+    second: Skirmisher_Animations_48
+  - first:
+      213: 721788030329830365
+    second: Skirmisher_Animations_49
+  - first:
+      213: 8636582904051731648
+    second: Skirmisher_Animations_50
+  - first:
+      213: 5329969068739737834
+    second: Skirmisher_Animations_51
+  - first:
+      213: -3554418601138917288
+    second: Skirmisher_Animations_52
+  - first:
+      213: 1955650067302371849
+    second: Skirmisher_Animations_53
+  - first:
+      213: 8337183407526594117
+    second: Skirmisher_Animations_54
+  - first:
+      213: -1907386026476304850
+    second: Skirmisher_Animations_55
+  - first:
+      213: -3066688562855275744
+    second: Skirmisher_Animations_56
+  - first:
+      213: 425961669167012806
+    second: Skirmisher_Animations_57
+  - first:
+      213: -6427245100634428545
+    second: Skirmisher_Animations_58
+  - first:
+      213: 2306604522778863484
+    second: Skirmisher_Animations_59
+  - first:
+      213: -400454547534054445
+    second: Skirmisher_Animations_60
+  - first:
+      213: -5125686625854495507
+    second: Skirmisher_Animations_61
+  - first:
+      213: -5921439273390625997
+    second: Skirmisher_Animations_62
+  - first:
+      213: -8593498987610130149
+    second: Skirmisher_Animations_63
+  - first:
+      213: 8594697841209783644
+    second: Skirmisher_Animations_64
+  - first:
+      213: 1967082139378014036
+    second: Skirmisher_Animations_65
+  - first:
+      213: -5100000917271955742
+    second: Skirmisher_Animations_66
+  - first:
+      213: 919616487337578287
+    second: Skirmisher_Animations_67
+  - first:
+      213: -5109860523024830977
+    second: Skirmisher_Animations_68
+  - first:
+      213: -5379019032126082483
+    second: Skirmisher_Animations_69
+  - first:
+      213: -733519483436393068
+    second: Skirmisher_Animations_70
+  - first:
+      213: 6719238464580007961
+    second: Skirmisher_Animations_71
+  - first:
+      213: 1119743918991797679
+    second: Skirmisher_Animations_72
+  - first:
+      213: 1664967777567004872
+    second: Skirmisher_Animations_73
+  - first:
+      213: -8202531643637820848
+    second: Skirmisher_Animations_74
+  - first:
+      213: 2849014556891044254
+    second: Skirmisher_Animations_75
+  - first:
+      213: 8453254089973904112
+    second: Skirmisher_Animations_76
+  - first:
+      213: -6218358150317038324
+    second: Skirmisher_Animations_77
+  - first:
+      213: 6930281976261538872
+    second: Skirmisher_Animations_78
+  - first:
+      213: 1738831371857082147
+    second: Skirmisher_Animations_79
+  - first:
+      213: -5895637354080313526
+    second: Skirmisher_Animations_80
+  - first:
+      213: 6198961661860287159
+    second: Skirmisher_Animations_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skirmisher_Animations_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfe3ed9674324090800000000000000
+      internalID: -8051815499725279301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9f5fa5690195810800000000000000
+      internalID: 1754451767794727378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372bbe137ea8f52a0800000000000000
+      internalID: -6746520991198104973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9bba0f1c2c66b00800000000000000
+      internalID: 821558120263956958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eb08907c40c8e30800000000000000
+      internalID: 4506982579995459231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62206ac50ec12240800000000000000
+      internalID: 4765316405000151659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a3eaef1dced4920800000000000000
+      internalID: 2976295315426917008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_7
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb56c56fe2746b790800000000000000
+      internalID: -7514740661193775684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1360b09214dbbb690800000000000000
+      internalID: -7585261059816356303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2894a4c67606bdf0800000000000000
+      internalID: -164937229177415633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_10
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaf95aa742331980800000000000000
+      internalID: -8569450382573831489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_11
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ef1e1cc64254330800000000000000
+      internalID: 3694399118855241272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_12
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92fa3ee01a86ab80800000000000000
+      internalID: -8383861850982649189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_13
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb524173421c050a0800000000000000
+      internalID: -6894798668217178693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_14
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35a53e105eb55590800000000000000
+      internalID: -7686027937724390085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_15
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b293d94fe6448a400800000000000000
+      internalID: 335593415580137771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_16
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e15a493caf11f850800000000000000
+      internalID: 6408938569280934373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_17
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a60dadede3fd0870800000000000000
+      internalID: 8650838662468929185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_18
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4969c9e33dc04ba40800000000000000
+      internalID: 5382941556042667668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_19
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88eb6ff803d648b0800000000000000
+      internalID: -5168211486762604406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_20
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1be3000062840740800000000000000
+      internalID: 5117358425428454174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_21
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13307462f7170a00800000000000000
+      internalID: 722572595050853148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_22
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad33b01e7d8085e0800000000000000
+      internalID: -1909370669419512414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_23
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f565fc1382e9d80800000000000000
+      internalID: -8242106073644376318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_24
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1c9022ef21fc890800000000000000
+      internalID: -7435703577063341616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_25
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967786c64cf54afd0800000000000000
+      internalID: -2331633409834059927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_26
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ec6bda40e195830800000000000000
+      internalID: 4060309544494353965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_27
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ec63812686c4a60800000000000000
+      internalID: 7659611836772699715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_28
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b1bd7a2617e8100800000000000000
+      internalID: 112151709267729199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_29
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab549795b1cb2ca10800000000000000
+      internalID: 1928310416119252410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_30
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c540b6fe98e052210800000000000000
+      internalID: 1307467252411073628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_31
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5682b805f0811f2c0800000000000000
+      internalID: -4399708906909390747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_32
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3efe9d040116690800000000000000
+      internalID: -7610784024559098911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_33
+      rect:
+        serializedVersion: 2
+        x: 4950
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adefba72c99197950800000000000000
+      internalID: 6447212500028751578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_34
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c222a4979b6bd70c0800000000000000
+      internalID: -4576300738618449364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_35
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e3432749e94d350800000000000000
+      internalID: 6040627360619052575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_36
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a401b9a17d0ac320800000000000000
+      internalID: 2578888518452446374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_37
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d650241a2fbd8e0800000000000000
+      internalID: -1667472462599328358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_38
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f8333c2c2ccb80800000000000000
+      internalID: -8373269038839039817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_39
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cedf67dadec6150800000000000000
+      internalID: 5867325743838391403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_40
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bbbcdaece038870800000000000000
+      internalID: 8683800787342310255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_41
+      rect:
+        serializedVersion: 2
+        x: 6150
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767e892ba5e1a03a0800000000000000
+      internalID: -6698508120867936409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_42
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b71caed26d790710800000000000000
+      internalID: 1659995801258825648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_43
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe84551518e5b060800000000000000
+      internalID: 6968731175675530939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_44
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9e77797083d3a70800000000000000
+      internalID: 8808258051463702981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_45
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f823675f51c6710800000000000000
+      internalID: 1687748104351289210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skirmisher_Animations_46
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 0
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edc44b3de4bfafa0800000000000000
+      internalID: -5787208065153184281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 87039a498dfb4914b9552e63eb682ef7, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

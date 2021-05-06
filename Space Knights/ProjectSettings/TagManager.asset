@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Controls_Canvas
+  - UI_Player_Health
+  - UI_Player_Death
+  - Ad_Manager
+  - UI_Extra_Health
+  - UI_Restart_Button
+  - Skirmisher_Canvas
+  - Outflanker_Canvas
+  - Frontliner_Canvas
+  - PlayerShipObject
+  - Achievement_Manager
+  - UI_PauseMenu_Button
+  - Leaderboards_Manager
+  - BlackFadeOut
+  - JoystickController
+  - HealthImageThree
+  - ShootButtonImage
+  - HealthImageOne
+  - HealthImageTwo
+  - SecondControllerImage
+  - PlayerBullet
+  - LeaderBoard
+  - Attention
+  - LoadSaveHandler
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 967260543
+    locked: 0
